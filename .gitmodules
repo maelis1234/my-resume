@@ -1,0 +1,6 @@
+[submodule "my-resume-back"]
+	path = my-resume-back
+	url = https://github.com/maelis1234/my-resume-back.git
+[submodule "my-resume-front"]
+	path = my-resume-front
+	url = https://github.com/maelis1234/my-resume-front.git
